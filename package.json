@@ -1,0 +1,37 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "minimal react project",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  },
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rook91/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "webpack",
+    "babel",
+    "js",
+    "javascript",
+    "html",
+    "npm"
+  ],
+  "author": "rook91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rook91/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rook91/react-boilerplate#readme"
+}
